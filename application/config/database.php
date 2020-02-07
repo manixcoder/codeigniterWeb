@@ -75,9 +75,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'accounts_book',
-	'password' => 'D=?e)JR(pdX1',
-	'database' => 'accounts_bookeeper',
+	'username' => 'dbUser',
+	'password' => 'dbPassword',
+	'database' => 'databaseName',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
